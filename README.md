@@ -1,5 +1,3 @@
-File name should be host.java and jar file name should host.jar.
-
 Hi this for students only.
 
 Your Question: How to use these EXE files?
